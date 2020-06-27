@@ -1,1 +1,0 @@
-# schoolproject-client-uat
